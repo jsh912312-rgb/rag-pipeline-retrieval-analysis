@@ -1,4 +1,4 @@
-# 입시 RAG 파이프라인 청킹 전략 재설계와 검색 성능 분석
+# 입시 RAG 데이터 구조화 및 QA기반 검색 정확도 분석
 
 > **스택** Python · FAISS · HuggingFace · KR-SBERT · Excel
 **분류** 개인 프로젝트 · 2026
