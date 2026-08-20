@@ -1,4 +1,4 @@
-# 입시 RAG 데이터 구조화 및 QA기반 검색 정확도 분석
+# 대학별 모집요강 데이터 품질 진단 및 구조화
 
 > **스택** Python · FAISS · HuggingFace · KR-SBERT · Excel
 **분류** 개인 프로젝트 · 2026
